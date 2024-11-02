@@ -3,9 +3,9 @@ import {
     View,
     Text,
     Image,
-    KeyboardAvoidingView,
     TouchableWithoutFeedback,
     Keyboard,
+    KeyboardAvoidingView,
     Platform,
 } from "react-native";
 
